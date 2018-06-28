@@ -6,7 +6,7 @@ Esta libreria soporta las tarjetas ESP8266, Wipy y la Sparkfun ESP32 Thing.
 
 ## Uso
 
-Lo primero es cargar los modulos ``mfrc522.py`` y ``rfid.py``.
+Lo primero es cargar los modulos ``mfrc522.py`` y ``rfid.py``. Si no sabes como hacerlo, [aquí](https://github.com/Fabeltranm/esp32-sigfox/wiki/Uso-de-Adafruit-ampy) esta explicado.
 
 Las conexiones para cada tarjeta se muestran acotinuacion:
 
