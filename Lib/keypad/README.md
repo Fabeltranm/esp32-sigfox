@@ -1,3 +1,5 @@
+Recomendación: Si se usa un GPIO de solo entrada, se debe conectar una resistencia al pin y a tierra.
+
 # Librería keypad para MicroPython
 
 Esta librería permite hacer uso de una matriz 4x4, en MicroPython. 
